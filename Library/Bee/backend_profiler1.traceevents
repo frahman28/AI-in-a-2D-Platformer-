@@ -1,0 +1,551 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1682310494270094, "dur":2705, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494272803, "dur":66, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1682310494272884, "dur":19, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1682310494272905, "dur":894, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1682310494273844, "dur":904, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494274748, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494877899, "dur":178, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878077, "dur":25, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878102, "dur":7, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878109, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878123, "dur":82, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878205, "dur":20, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878225, "dur":26, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878251, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878267, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878271, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878281, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878284, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878294, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878297, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878307, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878311, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878318, "dur":354, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878672, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878688, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878691, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878701, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878704, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878715, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878719, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878730, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878733, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878744, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878747, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878758, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878762, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878773, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878776, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878788, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878816, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494878849, "dur":4618, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1682310494273980, "dur":776, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682310494274759, "dur":12827, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682310494287602, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1682310494287605, "dur":796, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682310494288404, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1682310494288408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682310494305360, "dur":24493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1682310494329857, "dur":156662, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494486525, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682310494489791, "dur":22606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494512506, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494512851, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682310494512864, "dur":13827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494526818, "dur":397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494527220, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682310494527233, "dur":26668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494553985, "dur":29841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494583833, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682310494583849, "dur":10411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494594347, "dur":32580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494626934, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682310494626948, "dur":4110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494631204, "dur":205410, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494836623, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682310494836639, "dur":8650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682310494845387, "dur":32354, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494274011, "dur":751, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494274762, "dur":12984, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494287747, "dur":6605, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1682310494294356, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494296271, "dur":5049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1682310494301419, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1682310494301647, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494301659, "dur":164885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1682310494466681, "dur":110122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494576810, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494577034, "dur":21602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494598720, "dur":62557, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494661281, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494661290, "dur":12529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494673926, "dur":277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494674207, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494674219, "dur":9067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494683395, "dur":830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494684231, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494684240, "dur":5762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494690095, "dur":288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494690387, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494690397, "dur":6168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494696652, "dur":831, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494697488, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494697500, "dur":15726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494713356, "dur":319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494713679, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494713688, "dur":65847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494779625, "dur":359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494779987, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494779998, "dur":37250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682310494817343, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1682310494817463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494817474, "dur":2647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1682310494820204, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1682310494820290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682310494820299, "dur":9355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1682310494829743, "dur":48032, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494274046, "dur":721, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494274768, "dur":12963, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494287733, "dur":415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1682310494288152, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494295995, "dur":7059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1682310494303180, "dur":54387, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1682310494357570, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494357607, "dur":119483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1682310494477215, "dur":22649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494499869, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494499877, "dur":15571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494515561, "dur":22070, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UaaLAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494537640, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494537701, "dur":17004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UaaLAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494554798, "dur":34111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494588914, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494588926, "dur":14464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494603501, "dur":54076, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494657583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494657597, "dur":6273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494663973, "dur":380, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494664356, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494664368, "dur":27369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494691823, "dur":431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494692257, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494692267, "dur":26994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494719347, "dur":21985, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494741338, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682310494741352, "dur":103016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682310494844476, "dur":33668, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494274093, "dur":681, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494274774, "dur":12931, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494287709, "dur":6617, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1682310494294336, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494296117, "dur":5215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1682310494301459, "dur":247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1682310494301710, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494301722, "dur":25485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1682310494327377, "dur":179195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494506578, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494506590, "dur":20109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494526828, "dur":557, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494527390, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494527400, "dur":18527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494546067, "dur":343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494546417, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494546435, "dur":16505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494563048, "dur":488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494563541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494563553, "dur":11006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494574645, "dur":481, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494575130, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494575142, "dur":9345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494584591, "dur":315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494584909, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494584920, "dur":8817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494593890, "dur":666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494594562, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494594575, "dur":26216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494620893, "dur":42190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494663090, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494663139, "dur":10857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494674091, "dur":172093, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494846192, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682310494846209, "dur":4234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682310494850541, "dur":27615, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494274135, "dur":645, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494274780, "dur":12901, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494287684, "dur":669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1682310494288358, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494305387, "dur":15582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1682310494321089, "dur":177960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494499054, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494499063, "dur":20799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494519954, "dur":331, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494520289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494520299, "dur":25792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494546183, "dur":30620, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494576809, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494576870, "dur":12982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494590066, "dur":758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494590830, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494590843, "dur":7040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494598005, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494598325, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494598332, "dur":16619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494615067, "dur":39390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494654463, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494654477, "dur":9303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494663878, "dur":1049, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494664931, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494664942, "dur":14154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494679210, "dur":167583, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494846798, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682310494846810, "dur":6674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682310494853567, "dur":24409, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682310494274167, "dur":617, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682310494274784, "dur":12888, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682310494287677, "dur":472, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1682310494288153, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682310494299415, "dur":10598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1682310494310098, "dur":156459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494466563, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682310494476526, "dur":27375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494503983, "dur":74546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494578537, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682310494578551, "dur":21239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494601691, "dur":59511, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494661209, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682310494661225, "dur":12603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494673940, "dur":920, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494674866, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682310494674881, "dur":37423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494712406, "dur":463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494712873, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682310494712885, "dur":19507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494732496, "dur":676, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494733179, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682310494733191, "dur":59684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494792968, "dur":737, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/AstarPathfindingProject.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494793709, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682310494793720, "dur":34653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/AstarPathfindingProject.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682310494828464, "dur":49437, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682310494274190, "dur":601, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682310494274791, "dur":12872, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682310494287667, "dur":6659, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1682310494294330, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682310494296139, "dur":7324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1682310494303555, "dur":34054, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI.exe" }}
+,{ "pid":12345, "tid":7, "ts":1682310494337615, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682310494337622, "dur":140632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI.exe" }}
+,{ "pid":12345, "tid":7, "ts":1682310494478338, "dur":21887, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682310494500258, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682310494500267, "dur":19404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682310494519848, "dur":22860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682310494542714, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682310494542728, "dur":17219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682310494560039, "dur":28367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682310494588415, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682310494588430, "dur":10998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682310494599550, "dur":113876, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682310494713430, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682310494713440, "dur":76008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682310494789533, "dur":557, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682310494790095, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682310494790105, "dur":38759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682310494829236, "dur":48595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494274224, "dur":572, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494274796, "dur":12847, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494287648, "dur":7067, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1682310494294719, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494296406, "dur":8122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1682310494304671, "dur":24824, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494329503, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494476465, "dur":28716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494505306, "dur":19400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494524713, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494524726, "dur":11056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494535886, "dur":21761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494557655, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494557667, "dur":17042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494574795, "dur":74269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494649072, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494649137, "dur":9061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494658303, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494658611, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494658619, "dur":13646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494672373, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494672700, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494672711, "dur":34835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494707645, "dur":507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494708156, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494708165, "dur":10942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494719196, "dur":308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494719508, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494719516, "dur":24855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494744471, "dur":129604, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494874081, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682310494874095, "dur":3506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682310494877702, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1682310494877705, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494274256, "dur":545, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494274801, "dur":12852, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494287658, "dur":487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1682310494288150, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494295976, "dur":8202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1682310494304308, "dur":162347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494466676, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494476458, "dur":27207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494503773, "dur":21173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494524950, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494524958, "dur":10597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494535654, "dur":39591, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494575250, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494575259, "dur":9568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494584927, "dur":30975, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494615910, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494615927, "dur":14000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494630328, "dur":631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494630966, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494630978, "dur":3108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494634168, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494634467, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494634477, "dur":4445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494639016, "dur":41569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494680592, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494680605, "dur":14136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494694978, "dur":492, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494695474, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494695486, "dur":18558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494714147, "dur":438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494714588, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494714633, "dur":16056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494730791, "dur":1897, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494732692, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494732704, "dur":55459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494788543, "dur":7037, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494795586, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682310494795598, "dur":46681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682310494842386, "dur":35372, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494274290, "dur":517, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494274807, "dur":12830, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494287640, "dur":414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1682310494288061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494296615, "dur":6973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1682310494303671, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1682310494303885, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494311991, "dur":188974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1682310494501066, "dur":21831, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682310494522904, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494522919, "dur":8441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682310494531444, "dur":66422, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682310494597871, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494597888, "dur":11252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682310494609247, "dur":56286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682310494665537, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494665547, "dur":26531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682310494692173, "dur":9095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682310494701274, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494701286, "dur":30070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682310494731466, "dur":462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682310494731932, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494731943, "dur":63343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682310494795387, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1682310494795523, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494795631, "dur":23270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1682310494819241, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/resources.assets" }}
+,{ "pid":12345, "tid":10, "ts":1682310494819337, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494819350, "dur":1890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/resources.assets" }}
+,{ "pid":12345, "tid":10, "ts":1682310494821342, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1682310494821434, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494821445, "dur":4422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1682310494825958, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/boot.config" }}
+,{ "pid":12345, "tid":10, "ts":1682310494826229, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682310494826239, "dur":5631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/boot.config" }}
+,{ "pid":12345, "tid":10, "ts":1682310494831960, "dur":45807, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494274331, "dur":480, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494274811, "dur":12821, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494287635, "dur":1115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1682310494288753, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494303995, "dur":20470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1682310494324559, "dur":34610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494359174, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494476495, "dur":37071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494513692, "dur":380, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494514116, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494514128, "dur":17194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494531410, "dur":21513, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494552929, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494552939, "dur":8532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494561569, "dur":433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494562005, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494562018, "dur":13178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494575305, "dur":73770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494649131, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494649143, "dur":9629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494658911, "dur":919, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494659836, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494659850, "dur":5648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494665619, "dur":930, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494666556, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494666571, "dur":12534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494679236, "dur":132922, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494812164, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682310494812177, "dur":22296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682310494834570, "dur":43189, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494274405, "dur":412, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494274817, "dur":12810, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494287630, "dur":7733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1682310494295369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494297165, "dur":3628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1682310494300903, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1682310494301140, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494302222, "dur":32488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1682310494334826, "dur":21792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494356625, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494476663, "dur":27386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494504156, "dur":92010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494596174, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494596188, "dur":7636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494604203, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494604550, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494604562, "dur":17164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494621839, "dur":377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494622220, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494622233, "dur":5422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494627764, "dur":44756, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494672526, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494672538, "dur":6832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494679481, "dur":379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494679864, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494679879, "dur":10508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494690507, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494690830, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494690838, "dur":6740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494697685, "dur":1625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494699317, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494699372, "dur":25012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494724487, "dur":4916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494729414, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494729599, "dur":93773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682310494823473, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1682310494823570, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682310494823581, "dur":9637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1682310494833320, "dur":44541, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494274448, "dur":374, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494274822, "dur":12798, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494287623, "dur":1208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1682310494288835, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494305276, "dur":28822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1682310494334192, "dur":163661, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494497861, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494497875, "dur":16183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494514325, "dur":2085, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494516416, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494516428, "dur":18563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494535091, "dur":59882, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494594978, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494594989, "dur":16755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494611854, "dur":2067, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494613928, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494613941, "dur":12121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494626184, "dur":46455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494672643, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494672652, "dur":11222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494683971, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494684218, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494684229, "dur":11224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494695547, "dur":567, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494696119, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494696136, "dur":23008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494719246, "dur":942, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494720192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494720201, "dur":75111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682310494795733, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1682310494795827, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682310494795835, "dur":33748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1682310494829686, "dur":48212, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682310494274483, "dur":344, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682310494274827, "dur":12786, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682310494287618, "dur":7388, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1682310494295010, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682310494296138, "dur":6114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1682310494302387, "dur":416763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682310494719154, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682310494719164, "dur":21465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682310494740751, "dur":680, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Pathfinding.Ionic.Zip.Reduced.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682310494741435, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682310494741443, "dur":59738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Pathfinding.Ionic.Zip.Reduced.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682310494802382, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":14, "ts":1682310494802498, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682310494802510, "dur":8205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":14, "ts":1682310494810794, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":14, "ts":1682310494811049, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682310494811060, "dur":1928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":14, "ts":1682310494813078, "dur":21328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":14, "ts":1682310494834414, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682310494834611, "dur":2807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":14, "ts":1682310494837518, "dur":40220, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682310494274511, "dur":321, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682310494274832, "dur":12774, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682310494287609, "dur":401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1682310494288017, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682310494296192, "dur":5245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1682310494301752, "dur":287348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494589104, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682310494589206, "dur":7910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494597230, "dur":58243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494655479, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682310494655490, "dur":10232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494665838, "dur":1366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494667209, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682310494667220, "dur":22958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494690321, "dur":418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494690743, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682310494690751, "dur":16305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494707161, "dur":609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494707774, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682310494707787, "dur":19010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494726934, "dur":364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494727303, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682310494727316, "dur":67454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494794853, "dur":53599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494848461, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682310494849957, "dur":3184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682310494853249, "dur":24708, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494274550, "dur":287, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494274837, "dur":12763, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494287603, "dur":6349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":16, "ts":1682310494293960, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494296486, "dur":5041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":16, "ts":1682310494301679, "dur":35269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494336953, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494337573, "dur":140943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494478584, "dur":18019, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494496609, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494496619, "dur":17874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494514593, "dur":676, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494515276, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494515289, "dur":15677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494531068, "dur":325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494531397, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494531410, "dur":22431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494553927, "dur":270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494554200, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494554211, "dur":13442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494567744, "dur":38608, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494606361, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494606375, "dur":13162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494619641, "dur":38903, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494658548, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494658558, "dur":5908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494664571, "dur":479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494665055, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494665067, "dur":12589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494677751, "dur":106183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494783940, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494783952, "dur":10567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494794602, "dur":295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494794900, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682310494794910, "dur":40780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/itsfl/OneDrive/Desktop/Unity/Builds/FinalBuild_AI/FYP AI_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682310494835794, "dur":41973, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682310494886627, "dur":3370, "ph":"X", "name": "ProfilerWriteOutput" }
+,
